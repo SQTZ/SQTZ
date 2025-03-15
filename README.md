@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working in home<br>- 🌱 I’m currently learning Lua<br>
+Just a french student developer who create a new era of developement.. :)
 
 
 ## 🌐 Socials:
